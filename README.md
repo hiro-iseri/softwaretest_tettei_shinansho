@@ -10,6 +10,15 @@
 * p.199 本文14行目「16.10 制御フローテスト」
   * 誤）age = 5、with_coupon=True
   * 正）age = 10、with_coupon = True
+* p.199 本文22行目「16.10 制御フローテスト」
+  * 誤）age = 10
+  * 正）age = 5
+* p.199 本文23行目「16.10 制御フローテスト」
+  * 誤）age = 5、with_coupon = True
+  * 正）age = 10、with_coupon = True
+* p.199 本文24行目「16.10 制御フローテスト」
+  * 誤）age = 5、with_coupon = False
+  * 正）age = 10、with_coupon = False
 
 
 ## 正誤表(初版　第一刷)
